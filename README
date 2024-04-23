@@ -1,6 +1,6 @@
 Description:
 
-Title: "Analyzing Grocery Sales Data: Unveiling Trends and Insights for Enhanced Decision Making"
+Title: Analyzing Grocery Sales Data: Unveiling Trends and Insights for Enhanced Decision-Making
 
 Overview:
 The objective of this data analysis project is to extract actionable insights from grocery sales data to inform strategic decision-making and optimize business performance. Leveraging advanced data analytics techniques, we aim to uncover patterns, trends, and correlations within the dataset to identify key factors influencing sales, customer preferences, and market dynamics.
@@ -16,12 +16,12 @@ The dataset comprises comprehensive information on grocery sales transactions, i
 
 Objectives:
 1. Identify Sales Trends: Analyze historical sales data to identify seasonal trends, peak selling periods, and product performance metrics.
-2. Customer Segmentation: Segment customers based on purchasing behavior, frequency, and preferences to tailor marketing strategies and promotions.
+2. Customer Segmentation: Segment customers based on purchasing behaviour, frequency, and preferences to tailor marketing strategies and promotions.
 3. Product Performance Analysis: Evaluate the performance of individual products and categories to identify best-selling items, slow-moving inventory, and opportunities for product optimization.
 4. Market Basket Analysis: Explore associations and co-occurrences between products to identify cross-selling opportunities and optimize product placement.
 5. Promotion Effectiveness: Assess the impact of promotions, discounts, and marketing campaigns on sales revenue and customer engagement.
 6. Inventory Management: Utilize sales forecasting techniques to optimize inventory levels, minimize stockouts, and reduce carrying costs.
-7. Geographic Analysis: Analyze sales data across different regions to identify regional preferences, market saturation, and opportunities for expansion.
+7. Geographic Analysis: Analyze sales data across different regions to identify regional preferences, market saturation, and expansion opportunities.
 
 Methodology:
 1. Data Cleaning and Preparation: Preprocess the dataset to handle missing values, outliers, and inconsistencies.
